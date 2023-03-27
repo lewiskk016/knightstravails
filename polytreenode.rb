@@ -5,8 +5,7 @@ class PolyTreeNode
 
     def initialize
         root_node = [0,0]
-        build_move_tree = root_node
-         
+        build_move_tree = root
     end
 
     # def build_move_tree()
